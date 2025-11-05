@@ -15,6 +15,9 @@ ENV/
 .idea/
 *.sublime-workspace
 *.sublime-project
+# Ignore SSH key files
+gitSarthak
+gitSarthak.pub
 
 # Mac / Windows
 .DS_Store
