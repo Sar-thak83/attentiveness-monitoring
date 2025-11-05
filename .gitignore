@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# IDE/editor
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Mac / Windows
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+.env.local
+
+# Logs and reports
+*.log
+logs/
+
+# Project outputs / data
+attentiveness_data.csv
+attentiveness_report.png
+
+# Media / large files
+media/
+*.mp4
+*.mov
+
+# Model weights / checkpoints
+models/
+*.ckpt
+*.pth
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Misc
+pip-log.txt
+htmlcov/
+dist/
+build/
