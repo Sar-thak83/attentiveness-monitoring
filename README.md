@@ -72,10 +72,6 @@ eye_aspect_ratio_threshold = 0.2
 └── README.md           # This file
 ```
 
-## License
-
-Open source for educational purposes.
-
 ## Resources
 
 - [MediaPipe Documentation](https://mediapipe.dev/)
